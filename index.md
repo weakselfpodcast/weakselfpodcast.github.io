@@ -3,7 +3,7 @@ layout: page
 permalink: index.html
 ---
 
-<img src="og_image.jpg" width="300" />
+<img src="og_image.jpg" width="300" alt="weak self podcast logo"/>
 
 # weak self podcast
 
@@ -16,14 +16,14 @@ permalink: index.html
 請使用 <a href="https://overcast.fm/itunes1474108801/weak-self">Overcast</a>。
 
 ## 訂閱方式
-<a href="https://podcasts.apple.com/tw/podcast/weak-self/id1474108801"><img src="apple_podcasts.png" width="150"></a> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz"><img src="google_podcasts.png" width="150"></a>
+<a href="https://podcasts.apple.com/tw/podcast/weak-self/id1474108801"><img src="apple_podcasts.png" width="150" alt="Listen on Apple Podcasts"></a> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz"><img src="google_podcasts.png" width="150" alt="Listen on Google Podcasts"></a>
 
-<a href="https://overcast.fm/itunes1474108801/weak-self"><img src="overcast.png" width="150"></a> <a href="https://
-.fm/s/c914964/podcast/rss"><img src="rss_feed.png" width="150"></a>
+<a href="https://overcast.fm/itunes1474108801/weak-self"><img src="overcast.png" width="150" alt="Listen on Overcast"></a> <a href="https://
+.fm/s/c914964/podcast/rss"><img src="rss_feed.png" width="150" alt="Listen on RSS Feed"></a>
 
-<a href="https://open.spotify.com/show/4qAJjdyhx5AgHHL4VuTauj"><img src="spotify.png" width="150"></a> <a href="https://pca.st/9Z02"><img src="pocket_casts.png" width="150"></a>
+<a href="https://open.spotify.com/show/4qAJjdyhx5AgHHL4VuTauj"><img src="spotify.png" width="150" alt="Listen on Spotify"></a> <a href="https://pca.st/9Z02"><img src="pocket_casts.png" width="150" alt="Listen on Pocket Casts"></a>
 
-<a href="https://castro.fm/itunes/1474108801"><img src="castro.png" width="150"></a>
+<a href="https://castro.fm/itunes/1474108801"><img src="castro.png" width="150" alt="Listen in Castro"></a>
 
 ## 主講人
 
@@ -38,9 +38,11 @@ permalink: index.html
 
 ## 近期節目
 
-* [2: Swift API 設計之原來我不會用 protocol](https://overcast.fm/+TG_P1H0HI)
-* [1: Swift API 設計之 Value Type 與 Reference Type](https://overcast.fm/+TG_McOKDA)
-* [0: 如果你想要浪費一個人的暑假](https://overcast.fm/+TG_O9oJ0w)
+[2: Swift API 設計之原來我不會用 protocol](https://overcast.fm/+TG_P1H0HI)
+
+[1: Swift API 設計之 Value Type 與 Reference Type](https://overcast.fm/+TG_McOKDA)
+
+[0: 如果你想要浪費一個人的暑假](https://overcast.fm/+TG_O9oJ0w)
 
 ## 常見問題
 Q: 這個 podcast 是關於什麼？  
@@ -101,11 +103,11 @@ https://anchor.fm/s/c914964/podcast/rss
 
 **weak self** 每一集都會包含節目內容的筆記與章節，方便你查看相關連結，以及跳轉到特定位置。下圖以 Overcast 為例：
 
-### 筆記（Show Notes）
-<img src="show_note.jpg" width="414">
+### 筆記（Show Note）
+<img src="show_note.jpg" width="414" alt="筆記功能 show note">
 
-### 章節
-<img src="chapter_marks.jpg" width="414">
+### 章節（Chapter Marker）
+<img src="chapter_marks.jpg" width="414" alt="章節功能 chapter mark">
 
 ## 後台系統
 我們使用 [Anchor](https://anchor.fm/weakself) 上架。
