@@ -38,9 +38,9 @@ Apple/iOS 開發者中文 Podcast。由[一三](https://twitter.com/@ethanhuang1
 
 ## 近期節目
 
-* [2: Swift API 設計之原來我不會用 protocol](https://podcasts.apple.com/tw/podcast/weak-self/id1474108801?l=en#episodeGuid=b042e8ec-3a30-c546-3cc7-397a49de4a8b)
-* [1: Swift API 設計之 Value Type 與 Reference Type](https://podcasts.apple.com/tw/podcast/weak-self/id1474108801?l=en&i=1000445632851)
-* [0: 如果你想要浪費一個人的暑假](https://podcasts.apple.com/tw/podcast/weak-self/id1474108801?l=en&i=1000445223126) 
+* [2: Swift API 設計之原來我不會用 protocol](https://overcast.fm/+TG_P1H0HI)
+* [1: Swift API 設計之 Value Type 與 Reference Type](https://overcast.fm/+TG_McOKDA)
+* [0: 如果你想要浪費一個人的暑假](https://overcast.fm/+TG_O9oJ0w)
 
 ## 常見問題
 Q: 這個 podcast 是關於什麼？  
