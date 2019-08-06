@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: index.html
+---
+
 # weak self podcast
 
 Apple/iOS 開發者中文 Podcast。由[一三](https://twitter.com/@ethanhuang13)、[波肥](https://twitter.com/@PofatTseng)、[喬喬](https://twitter.com/@joe_trash_talk)主講。
