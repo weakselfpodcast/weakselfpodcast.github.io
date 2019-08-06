@@ -7,7 +7,8 @@ Apple/iOS 開發者中文 Podcast。由[一三](https://twitter.com/@ethanhuang1
 ## 訂閱方式
 <a href="https://podcasts.apple.com/tw/podcast/weak-self/id1474108801"><img src="https://i.imgur.com/0DUVucp.png" width="150"></a> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz"><img src="https://i.imgur.com/wsyQ3Yv.png" width="150"></a>
 
-<a href="https://overcast.fm/itunes1474108801/weak-self"><img src="https://i.imgur.com/6mVv21h.png" width="150"></a> <a href="https://anchor.fm/s/c914964/podcast/rss"><img src="https://i.imgur.com/5xUVNi0.png" width="150"></a>
+<a href="https://overcast.fm/itunes1474108801/weak-self"><img src="https://i.imgur.com/6mVv21h.png" width="150"></a> <a href="https://
+.fm/s/c914964/podcast/rss"><img src="https://i.imgur.com/5xUVNi0.png" width="150"></a>
 
 <a href="https://open.spotify.com/show/4qAJjdyhx5AgHHL4VuTauj"><img src="https://i.imgur.com/MQXTcAz.png" width="150"></a> <a href="https://pca.st/9Z02"><img src="https://i.imgur.com/Qi74LYA.png" width="150"></a>
 
@@ -88,16 +89,16 @@ weak self 每一集都會包含節目內容的筆記與章節，方便你查看�
 ## 主講人
 
 @ethanhuang13 一三
-https://twitter.com/@ethanhuang13
+[https://twitter.com/@ethanhuang13](https://twitter.com/@ethanhuang13)
 
 @PofatTseng 波肥
-https://twitter.com/@PofatTseng
+[https://twitter.com/@PofatTseng](https://twitter.com/@PofatTseng)
 
 @joe_trash_talk 喬喬
-https://twitter.com/@joe_trash_talk
+[https://twitter.com/@joe_trash_talk](https://twitter.com/@joe_trash_talk)
 
 ## 後台系統
-我們使用 [Anchor](https://anchor.fm/weak_self) 上架。
+我們使用 [Anchor](https://anchor.fm/weakself) 上架。
 
 ## 副產品
 因為要整理 podcast 的話題，蒐集了不少材料。沒有機會錄製的部分就放在[«13的開發者週報»](https://ethanhuang13.substack.com)，歡迎訂閱。
