@@ -9,7 +9,7 @@ permalink: index.html
 
 Apple/iOS 開發者中文 Podcast。由[一三](https://twitter.com/@ethanhuang13)、[波肥](https://twitter.com/@PofatTseng)、[喬喬](https://twitter.com/@joe_trash_talk)主講。
 
-中文名稱有有多個版本任君挑選：《不要算我》、《弱弱的我》、《等等就找不到我》🤪
+中文名稱有多個版本任君挑選：《不要算我》、《弱弱的我》、《等等就找不到我》🤪
 
 ## 線上收聽
 
@@ -25,8 +25,19 @@ Apple/iOS 開發者中文 Podcast。由[一三](https://twitter.com/@ethanhuang1
 
 <a href="https://castro.fm/itunes/1474108801"><img src="castro.png" width="150"></a>
 
+## 主講人
+
+**一三** / 13
+[@ethanhuang13](https://twitter.com/@ethanhuang13)
+
+**波肥** / Pofat
+[@PofatTseng](https://twitter.com/@PofatTseng)
+
+**喬喬** / Joe
+[@joe_trash_talk](https://twitter.com/@joe_trash_talk)
 
 ## 近期節目
+
 * [2: Swift API 設計之原來我不會用 protocol](https://podcasts.apple.com/tw/podcast/weak-self/id1474108801?l=en#episodeGuid=b042e8ec-3a30-c546-3cc7-397a49de4a8b)
 * [1: Swift API 設計之 Value Type 與 Reference Type](https://podcasts.apple.com/tw/podcast/weak-self/id1474108801?l=en&i=1000445632851)
 * [0: 如果你想要浪費一個人的暑假](https://podcasts.apple.com/tw/podcast/weak-self/id1474108801?l=en&i=1000445223126) 
@@ -95,18 +106,6 @@ weak self 每一集都會包含節目內容的筆記與章節，方便你查看�
 
 ### 章節
 <img src="chapter_marks.jpg" width="414">
-
-
-## 主講人
-
-@ethanhuang13 一三
-[https://twitter.com/@ethanhuang13](https://twitter.com/@ethanhuang13)
-
-@PofatTseng 波肥
-[https://twitter.com/@PofatTseng](https://twitter.com/@PofatTseng)
-
-@joe_trash_talk 喬喬
-[https://twitter.com/@joe_trash_talk](https://twitter.com/@joe_trash_talk)
 
 ## 後台系統
 我們使用 [Anchor](https://anchor.fm/weakself) 上架。
