@@ -3,7 +3,8 @@
 @import 'begin';
 @import 'syntax';
 
-$linkColor: #999;
+$textColor: #1F1F24;
+$linkColor: #FC5FA3;
 $mobileW: 768px;
 $smallMobileW: 480px;
 $bigScreenW: 1600px;
@@ -17,6 +18,7 @@ $lightGray: #eee;
 }
 
 body {
+    color: $textColor;
 	font-family: 'Nunito Sans', sans-serif;
 	@include fluidType(16px, 19px);
 	line-height: 1.55em;
