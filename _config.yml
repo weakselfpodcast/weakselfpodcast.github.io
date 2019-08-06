@@ -3,7 +3,7 @@ author: weakselfpodcast
 description: > # this means to ignore newlines until "show_exerpts:"
   Apple/iOS 開發者中文 Podcast。由一三、波肥、喬喬主講
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /
+baseurl: 
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
