@@ -7,7 +7,7 @@ permalink: index.html
 
 # weak self podcast
 
-三個在 iOS 開發圈打滾的台灣工程師，專為 Apple/iOS 開發者而製作的 Podcast。由[一三](https://twitter.com/@ethanhuang13)、[波肥](https://twitter.com/@PofatTseng)、[喬喬](https://twitter.com/@joe_trash_talk)製作。
+三個在 iOS 開發圈打滾的台灣工程師，專為 Apple/iOS 開發者而製作的 Podcast。主講人[一三](https://twitter.com/@ethanhuang13)、[波肥](https://twitter.com/@PofatTseng)、[喬喬](https://twitter.com/@joe_trash_talk)。
 
 中文名稱有多個版本任君挑選：《不要算我》、《弱弱的我》、《等等就找不到我》🤪
 
