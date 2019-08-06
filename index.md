@@ -55,7 +55,7 @@ https://open.spotify.com/show/4qAJjdyhx5AgHHL4VuTauj
 > 支援調整速度
 
 ### Anchor
-https://anchor.fm/weak_self
+https://anchor.fm/weakself
 > 支援筆記（僅純文字）、調整速度（三種速度）
 
 ### Pocket Casts
