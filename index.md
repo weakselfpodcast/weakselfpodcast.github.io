@@ -5,13 +5,13 @@ Apple/iOS 開發者中文 Podcast。由[一三](https://twitter.com/@ethanhuang1
 > 中文名稱有有多個版本任君挑選：《不要算我》、《弱弱的我》、《等等就找不到我》🤪
 
 ## 訂閱方式
-[<img src="https://i.imgur.com/0DUVucp.png" width=150x>](https://podcasts.apple.com/tw/podcast/weak-self/id1474108801) [<img src="https://i.imgur.com/wsyQ3Yv.png" width=150x>](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz)
+<a href="https://podcasts.apple.com/tw/podcast/weak-self/id1474108801"><img src="https://i.imgur.com/0DUVucp.png" width=150x></a> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz"><img src="https://i.imgur.com/wsyQ3Yv.png" width=150x></a>
 
-[<img src="https://i.imgur.com/6mVv21h.png" width=150x>](https://overcast.fm/itunes1474108801/weak-self) [<img src="https://i.imgur.com/5xUVNi0.png" width=150x>](https://anchor.fm/s/c914964/podcast/rss)
+<a href="https://overcast.fm/itunes1474108801/weak-self"><img src="https://i.imgur.com/6mVv21h.png" width=150x></a> <a href="https://anchor.fm/s/c914964/podcast/rss"><img src="https://i.imgur.com/5xUVNi0.png" width=150x></a>
 
-[<img src="https://i.imgur.com/MQXTcAz.png" width=150x>](https://open.spotify.com/show/4qAJjdyhx5AgHHL4VuTauj) [<img src="https://i.imgur.com/Qi74LYA.png" width=150x>](https://pca.st/9Z02)
+<a href="https://open.spotify.com/show/4qAJjdyhx5AgHHL4VuTauj"><img src="https://i.imgur.com/MQXTcAz.png" width=150x></a> <a href="https://pca.st/9Z02"><img src="https://i.imgur.com/Qi74LYA.png" width=150x></a>
 
-[<img src="https://i.imgur.com/dBIpoFl.png" width=150x>](https://castro.fm/itunes/1474108801)
+<a href="https://castro.fm/itunes/1474108801"><img src="https://i.imgur.com/dBIpoFl.png" width=150x></a>
 
 
 ## 近期節目
@@ -79,10 +79,10 @@ https://anchor.fm/s/c914964/podcast/rss
 weak self 每一集都會包含節目內容的筆記與章節，方便你查看相關連結，以及跳轉到特定位置。下圖以 Overcast 為例：
 
 ### 筆記（Show Notes）
-> <img src="https://i.imgur.com/rZj8RfJ.jpg" width=414x>
+<img src="https://i.imgur.com/rZj8RfJ.jpg" width=414x>
 
 ### 章節
-> <img src="https://i.imgur.com/ZNZNkZl.jpg" width=414x>
+<img src="https://i.imgur.com/ZNZNkZl.jpg" width=414x>
 
 
 ## 主講人
