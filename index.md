@@ -18,8 +18,7 @@ permalink: index.html
 ## 訂閱方式
 <a href="https://podcasts.apple.com/tw/podcast/weak-self/id1474108801"><img src="apple_podcasts.png" width="150" alt="Listen on Apple Podcasts"></a> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz"><img src="google_podcasts.png" width="150" alt="Listen on Google Podcasts"></a>
 
-<a href="https://overcast.fm/itunes1474108801/weak-self"><img src="overcast.png" width="150" alt="Listen on Overcast"></a> <a href="https://
-.fm/s/c914964/podcast/rss"><img src="rss_feed.png" width="150" alt="Listen on RSS Feed"></a>
+<a href="https://overcast.fm/itunes1474108801/weak-self"><img src="overcast.png" width="150" alt="Listen on Overcast"></a> <a href="https://anchor.fm/s/c914964/podcast/rss"><img src="rss_feed.png" width="150" alt="Listen on RSS Feed"></a>
 
 <a href="https://open.spotify.com/show/4qAJjdyhx5AgHHL4VuTauj"><img src="spotify.png" width="150" alt="Listen on Spotify"></a> <a href="https://pca.st/9Z02"><img src="pocket_casts.png" width="150" alt="Listen on Pocket Casts"></a>
 
