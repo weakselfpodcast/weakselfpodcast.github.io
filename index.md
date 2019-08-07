@@ -38,11 +38,11 @@ permalink: index.html
 
 ## 近期節目
 
-[2: Swift API 設計之原來我不會用 protocol](https://overcast.fm/+TG_P1H0HI)
+[2: Swift API 設計之原來我不會用 protocol](/episodes/2)
 
-[1: Swift API 設計之 Value Type 與 Reference Type](https://overcast.fm/+TG_McOKDA)
+[1: Swift API 設計之 Value Type 與 Reference Type](/episodes/1)
 
-[0: 如果你想要浪費一個人的暑假](https://overcast.fm/+TG_O9oJ0w)
+[0: 如果你想要浪費一個人的暑假](/episodes/0)
 
 ## 常見問題
 Q: 這個 podcast 是關於什麼？  

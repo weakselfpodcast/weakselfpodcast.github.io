@@ -10,13 +10,13 @@ baseurl:
 sass:
   sass_dir: _sass
 
-permalink: /posts/:title/
+permalink: /episodes/:title
 texture:
   title: weak self podcast
   tagline: 三個在 iOS 開發圈打滾的台灣工程師，專為 Apple/iOS 開發者而製作的 Podcast。主講人一三、波肥、喬喬。
-  date_format: "%b %-d, %Y"
+  date_format: "%Y/%m/%d"
   style: black
-  showNav: false
+  showNav: true
   showPicker: false
 
   # generate social links in footer
