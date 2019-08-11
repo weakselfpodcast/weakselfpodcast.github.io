@@ -37,6 +37,8 @@ permalink: index.html
 
 ## 近期節目
 
+[3: 就是要豪華便當！詹里長 hokila 的技術研討會全攻略](/episodes/3)
+
 [2: Swift API 設計之原來我不會用 protocol](/episodes/2)
 
 [1: Swift API 設計之 Value Type 與 Reference Type](/episodes/1)
