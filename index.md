@@ -37,6 +37,8 @@ permalink: index.html
 
 ## 近期節目
 
+[5: 這裡沒有心靈雞湯配大餅](/episodes/5)
+
 [4: 或許我可以把 title 改成資深文件工程師](/episodes/4)
 
 [3: 就是要豪華便當！詹里長 hokila 的技術研討會全攻略](/episodes/3)
