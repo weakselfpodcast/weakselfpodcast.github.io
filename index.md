@@ -37,6 +37,8 @@ permalink: index.html
 
 ## 近期節目
 
+[6: 真・三人・weak self](/episodes/6)
+
 [5: 這裡沒有心靈雞湯配大餅](/episodes/5)
 
 [4: 或許我可以把 title 改成資深文件工程師](/episodes/4)
