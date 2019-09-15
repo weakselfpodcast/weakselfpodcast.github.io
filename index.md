@@ -37,6 +37,8 @@ permalink: index.html
 
 ## 近期節目
 
+[8: 平行宇宙工程師](/episodes/8)
+
 [7: 這集叫罐頭🥫](/episodes/7)
 
 [6: 真・三人・weak self](/episodes/6)
