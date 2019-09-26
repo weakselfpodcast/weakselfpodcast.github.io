@@ -37,6 +37,8 @@ permalink: index.html
 
 ## 近期節目
 
+[9: 帶你親臨 iPlayground 現場](/episodes/9)
+
 [8: 平行宇宙工程師](/episodes/8)
 
 [7: 這集叫罐頭🥫](/episodes/7)
