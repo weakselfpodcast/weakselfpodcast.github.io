@@ -37,6 +37,8 @@ permalink: index.html
 
 ## 近期節目
 
+[10: 喬喬 escaping](/episodes/10)
+
 [9: 帶你親臨 iPlayground 現場](/episodes/9)
 
 [8: 平行宇宙工程師](/episodes/8)
