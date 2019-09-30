@@ -64,7 +64,7 @@ Q: 這個 podcast 是關於什麼？
 A: 三個在 iOS 開發圈打滾一段時間的人，想到一些 Apple/iOS 開發相關題目來聊聊。偶爾會有特別來賓訪談。
 
 Q: 你們的更新時間與頻率？  
-A: 我們不定期會更新，最短是一週一次。如果該週有節目的話，會在週一凌晨上線。所以你的 Blue Monday 有我們的陪伴。
+A: 我們不定期會更新，最短是一週一次。如果該週有節目的話，通常會在週一凌晨上線。所以你的 Blue Monday 有我們的陪伴。
 
 Q: 為什麼叫作 **weak self**？  
 A: 有機會的話，會在未來的節目會說明😛
@@ -73,7 +73,7 @@ Q: 什麼是收聽 **weak self** 最棒的方式？
 A: 由於功能的關係，我們推薦使用 iOS 的 [Overcast](https://overcast.fm/itunes1474108801/weak-self) app 聆聽，但你也可以用任何 podcast app。最重要的是，**請 follow 我們的 [Twitter](https://twitter.com/weak_self)**，才不會錯過任何最新消息🥰
 
 Q: 你們開放贊助或工商服務嗎？  
-A: 先說聲謝謝🙏。我們現在比較需要的是錄音設備（麥克風）。至於工商的話，現在才剛開始，等我們上軌道以後可以考慮。
+A: 先說聲謝謝🙏。現在節目才開始沒多久，等我們上軌道以後可以考慮。
 
 Q: 我想要聽 OO 題目 / 我想要回饋或提供意見...  
 A: 請到我們的 [Twitter](https://twitter.com/weak_self) 回覆與 DM，或在[提問箱](https://peing.net/zh-TW/weak_self)匿名發問。
