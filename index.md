@@ -37,6 +37,8 @@ permalink: index.html
 
 ## 近期節目
 
+[11: 先 build 得起來再說—Project Catalyst 踩坑記錄](/episodes/11)
+
 [10: 喬喬 escaping](/episodes/10)
 
 [9: 帶你親臨 iPlayground 現場](/episodes/9)
