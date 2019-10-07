@@ -77,6 +77,9 @@ A: 先說聲謝謝🙏。先讓我們想清楚也不遲。
 Q: 我想要聽 OO 題目 / 我想要回饋或提供意見...  
 A: 請到我們的 [Twitter](https://twitter.com/weak_self) 回覆與 DM，或在[提問箱](https://peing.net/zh-TW/weak_self)匿名發問。
 
+## 贊助者
+<blockquote class="twitter-tweet" data-lang="zh-tw" data-theme="dark" data-link-color="#FC5FA3"><p lang="zh" dir="ltr">感謝乾爹 <a href="https://twitter.com/rollr76518?ref_src=twsrc%5Etfw">@rollr76518</a> 捐贈 Blue Yeti 乙支🙏🙏🙏 <a href="https://t.co/ra6SZmXdfl">pic.twitter.com/ra6SZmXdfl</a></p>&mdash; weak self podcast 「我很弱，不要把我算進去」 (@weak_self) <a href="https://twitter.com/weak_self/status/1174539959207780353?ref_src=twsrc%5Etfw">2019年9月19日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ---
 ## 筆記與章節功能
 
