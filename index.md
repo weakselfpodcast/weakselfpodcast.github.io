@@ -80,7 +80,6 @@ A: 請到我們的 [Twitter](https://twitter.com/weak_self) 回覆與 DM，或�
 ## 贊助者
 <blockquote class="twitter-tweet" data-lang="zh-tw" data-theme="dark" data-link-color="#FC5FA3"><p lang="zh" dir="ltr">感謝乾爹 <a href="https://twitter.com/rollr76518?ref_src=twsrc%5Etfw">@rollr76518</a> 捐贈 Blue Yeti 乙支🙏🙏🙏 <a href="https://t.co/ra6SZmXdfl">pic.twitter.com/ra6SZmXdfl</a></p>&mdash; weak self podcast 「我很弱，不要把我算進去」 (@weak_self) <a href="https://twitter.com/weak_self/status/1174539959207780353?ref_src=twsrc%5Etfw">2019年9月19日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
----
 ## 筆記與章節功能
 
 **weak self** 每一集都會包含節目內容的筆記與章節，方便你查看相關連結，以及跳轉到特定位置。下圖以 Overcast 為例：
