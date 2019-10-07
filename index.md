@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 permalink: index.html
 ---
 
