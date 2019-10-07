@@ -7,22 +7,19 @@ permalink: index.html
 
 # weak self podcast
 
-三個在 iOS 開發圈打滾的台灣工程師，專為 Apple/iOS 開發者而製作的 Podcast。主講人[一三](https://twitter.com/@ethanhuang13)、[波肥](https://twitter.com/@PofatTseng)、[喬喬](https://twitter.com/@joe_trash_talk)。
+<b>weak self</b> 是三個在 iOS 開發圈打滾的台灣工程師，專為 Apple & iOS 開發者而製作的 Podcast。主講人<a href="https://twitter.com/@ethanhuang13">一三</a>、<a href="https://twitter.com/@PofatTseng">波肥</a>、<a href="https://twitter.com/@joe_trash_talk">喬喬</a>。中文名稱是《我很弱，不要把我算進去》🤪 節目內容涵蓋了 iOS 與 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。
 
-中文名稱有多個版本任君挑選：《不要算我》、《弱弱的我》、《等等就找不到我》🤪
+[聽眾朋友怎麼說？](/feedbacks)・[weak self 歷史](/history)
 
 ## 線上收聽
 
-請使用 <a href="https://overcast.fm/itunes1474108801/weak-self">Overcast</a>。
+請使用 <a href="https://overcast.fm/itunes1474108801/weak-self">Overcast</a> 或 [Anchor](https://anchor.fm/weakself) 網站。
 
 ## 訂閱方式
-<a href="https://podcasts.apple.com/tw/podcast/weak-self/id1474108801"><img src="apple_podcasts.png" width="150" alt="Listen on Apple Podcasts"></a> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz"><img src="google_podcasts.png" width="150" alt="Listen on Google Podcasts"></a>
 
-<a href="https://overcast.fm/itunes1474108801/weak-self"><img src="overcast.png" width="150" alt="Listen on Overcast"></a> <a href="https://anchor.fm/s/c914964/podcast/rss"><img src="rss_feed.png" width="150" alt="Listen on RSS Feed"></a>
+**weak self** 支援任何 podcast 播放軟體，只要訂閱我們的 [RSS](https://anchor.fm/s/c914964/podcast/rss) 網址即可。
 
-<a href="https://open.spotify.com/show/4qAJjdyhx5AgHHL4VuTauj"><img src="spotify.png" width="150" alt="Listen on Spotify"></a> <a href="https://pca.st/9Z02"><img src="pocket_casts.png" width="150" alt="Listen on Pocket Casts"></a>
-
-<a href="https://castro.fm/itunes/1474108801"><img src="castro.png" width="150" alt="Listen in Castro"></a>
+<a href="https://podcasts.apple.com/tw/podcast/weak-self/id1474108801"><img src="/apple_podcasts.png" width="150" alt="Listen on Apple Podcasts"></a> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz"><img src="/google_podcasts.png" width="150" alt="Listen on Google Podcasts"></a> <a href="https://overcast.fm/itunes1474108801/weak-self"><img src="/overcast.png" width="150" alt="Listen on Overcast"></a> <a href="https://anchor.fm/s/c914964/podcast/rss"><img src="/rss_feed.png" width="150" alt="Listen on RSS Feed"></a> <a href="https://open.spotify.com/show/4qAJjdyhx5AgHHL4VuTauj"><img src="/spotify.png" width="150" alt="Listen on Spotify"></a> <a href="https://pca.st/9Z02"><img src="/pocket_casts.png" width="150" alt="Listen on Pocket Casts"></a> <a href="https://castro.fm/itunes/1474108801"><img src="/castro.png" width="150" alt="Listen in Castro"></a>
 
 ## 主講人
 
@@ -69,51 +66,16 @@ Q: 你們的更新時間與頻率？
 A: 我們不定期會更新，最短是一週一次。如果該週有節目的話，通常會在週一凌晨上線。所以你的 Blue Monday 有我們的陪伴。
 
 Q: 為什麼叫作 **weak self**？  
-A: 有機會的話，會在未來的節目會說明😛
+A: `[weak self]` 是 Swift 程式語言裡處理記憶體的語法，我們在[第 10 集](/episodes/10)有詳細討論。不過當初取這個名字主要是想表達「我們這麼弱也可以來錄 podcast，真好玩」。
 
 Q: 什麼是收聽 **weak self** 最棒的方式？  
 A: 由於功能的關係，我們推薦使用 iOS 的 [Overcast](https://overcast.fm/itunes1474108801/weak-self) app 聆聽，但你也可以用任何 podcast app。最重要的是，**請 follow 我們的 [Twitter](https://twitter.com/weak_self)**，才不會錯過任何最新消息🥰
 
 Q: 你們開放贊助或工商服務嗎？  
-A: 先說聲謝謝🙏。現在節目才開始沒多久，等我們上軌道以後可以考慮。
+A: 先說聲謝謝🙏。先讓我們想清楚也不遲。
 
 Q: 我想要聽 OO 題目 / 我想要回饋或提供意見...  
 A: 請到我們的 [Twitter](https://twitter.com/weak_self) 回覆與 DM，或在[提問箱](https://peing.net/zh-TW/weak_self)匿名發問。
-
-<!--
-## 如何訂閱？
-下面是各大常用的 podcast apps。你可以點擊連結或是直接搜尋 weak self。
-
-### Apple Podcasts / iTunes
-https://podcasts.apple.com/tw/podcast/weak-self/id1474108801
-> 支援筆記、章節、調整速度
-
-### Overcast（推薦）
-https://overcast.fm/itunes1474108801/weak-self
-> 支援筆記、章節、調整速度、智慧加速、聲音強化
-
-### Spotify
-https://open.spotify.com/show/4qAJjdyhx5AgHHL4VuTauj
-> 支援調整速度
-
-### Anchor
-https://anchor.fm/weakself
-> 支援筆記（僅純文字）、調整速度（三種速度）
-
-### Pocket Casts
-https://pca.st/9Z02
-> 支援筆記、章節、調整速度、智慧加速、聲音強化
-
-### RSS Feed
-https://anchor.fm/s/c914964/podcast/rss
-透過這個 feed，你可以用任何 podcast app 訂閱 weak self。直接點連結可能不會是你想要的結果😂，最好複製網址再貼過去。
-
-### 其他 Podcast Apps
-* [Breaker](https://www.breaker.audio/weak-self)
-* [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz)
-* [RadioPublic](https://radiopublic.com/weak-self-WxO4K1)
-* [Stitcher](https://www.stitcher.com/podcast/anchor-podcasts/weak-self)
--->
 
 ---
 ## 筆記與章節功能
