@@ -13,6 +13,14 @@ $leftWidth: 220px;
 $gray: #999;
 $lightGray: #eee;
 
+@media screen and (max-width: 1599px) {
+    iframe {
+        max-width: 100% !important;
+        width: 720px !important;
+        height: auto !important;
+    }
+}
+
 *,*:before,*:after {
 	box-sizing: border-box;
 }
