@@ -7,8 +7,6 @@ permalink: index.html
 
 # weak self podcast
 
-<iframe src="https://anchor.fm/weakself/embed/episodes/ep-e6n1fp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
 <b>weak self</b> 是三個在 iOS 開發圈打滾的台灣工程師，專為 Apple & iOS 開發者而製作的 Podcast。主講人<a href="https://twitter.com/@ethanhuang13">一三</a>、<a href="https://twitter.com/@PofatTseng">波肥</a>、<a href="https://twitter.com/@joe_trash_talk">喬喬</a>。中文名稱是《我很弱，不要把我算進去》🤪 節目內容涵蓋了 iOS 與 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。
 
 [聽眾朋友怎麼說？](/feedbacks)・[weak self 歷史](/history)
@@ -22,6 +20,10 @@ permalink: index.html
 **weak self** 支援任何 podcast 播放軟體，只要訂閱我們的 [RSS](https://anchor.fm/s/c914964/podcast/rss) 網址即可。
 
 <a href="https://podcasts.apple.com/tw/podcast/weak-self/id1474108801"><img src="/apple_podcasts.png" width="150" alt="Listen on Apple Podcasts"></a> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz"><img src="/google_podcasts.png" width="150" alt="Listen on Google Podcasts"></a> <a href="https://overcast.fm/itunes1474108801/weak-self"><img src="/overcast.png" width="150" alt="Listen on Overcast"></a> <a href="https://anchor.fm/s/c914964/podcast/rss"><img src="/rss_feed.png" width="150" alt="Listen on RSS Feed"></a> <a href="https://open.spotify.com/show/4qAJjdyhx5AgHHL4VuTauj"><img src="/spotify.png" width="150" alt="Listen on Spotify"></a> <a href="https://pca.st/9Z02"><img src="/pocket_casts.png" width="150" alt="Listen on Pocket Casts"></a> <a href="https://castro.fm/itunes/1474108801"><img src="/castro.png" width="150" alt="Listen in Castro"></a>
+
+## 2 分鐘試聽
+
+<iframe src="https://anchor.fm/weakself/embed/episodes/ep-e6n1fp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## 近期節目
 
