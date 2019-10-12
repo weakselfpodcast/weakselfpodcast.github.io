@@ -89,10 +89,10 @@ A: 請到我們的 [Twitter](https://twitter.com/weak_self) 回覆與 DM，或�
 **weak self** 每一集都會包含節目內容的筆記與章節，方便你查看相關連結，以及跳轉到特定位置。下圖以 Overcast 為例：
 
 ### 筆記（Show Note）
-<img src="show_note.jpg" width="414" alt="筆記功能 show note">
+<img src="show_note.jpg" width="414" alt="筆記功能 show note" style="border:0.5px #222 solid;">
 
 ### 章節（Chapter Marker）
-<img src="chapter_marks.jpg" width="414" alt="章節功能 chapter mark">
+<img src="chapter_marks.jpg" width="414" alt="章節功能 chapter mark" style="border:0.5px #222 solid;">
 
 ## 後台系統
 我們使用 [Anchor](https://anchor.fm/weakself) 上架。
