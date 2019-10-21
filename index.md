@@ -27,6 +27,8 @@ permalink: index.html
 
 ## 近期節目
 
+[13: 喬喬 Erasure](/episodes/13)
+
 [12: 販售焦慮，Mobile 工程師能不學 Flutter 嗎？](/episodes/12)
 
 [11: 先 build 得起來再說—Project Catalyst 踩坑記錄](/episodes/11)
