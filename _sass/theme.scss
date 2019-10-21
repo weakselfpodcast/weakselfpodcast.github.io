@@ -7,6 +7,7 @@ $textColor: #1F1F24;
 $darkModeTextColor: #F5F5F5;
 $backgroundColor: #FFFFFF;
 $darkModeBackgroundColor: #222;
+$darkModeQuoteBackgroundColor: #333;
 $linkColor: #FC5FA3;
 $mobileW: 768px;
 $smallMobileW: 480px;
@@ -20,6 +21,10 @@ $lightGray: #eee;
   body {
     color: $darkModeTextColor !important;
     background-color: $darkModeBackgroundColor !important;
+  }
+
+  .highlight {
+  	background-color: $darkModeQuoteBackgroundColor !important;
   }
 }
 
