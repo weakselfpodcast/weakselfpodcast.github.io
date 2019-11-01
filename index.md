@@ -5,9 +5,9 @@ permalink: index.html
 
 <img src="og_image.jpg" width="300" alt="weak self podcast logo"/>
 
-# weak self 弱弱的我
+# weak self
 
-三個在 iOS 開發圈打滾的台灣工程師，專為 Apple & iOS 開發者而製作的 Podcast。主持人<a href="https://twitter.com/@ethanhuang13">一三</a>、<a href="https://twitter.com/@PofatTseng">波肥</a>、<a href="https://twitter.com/@joe_trash_talk">喬喬</a>。內容涵蓋了 iOS 與 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。
+集結弱弱的我，也可以組成強大的社群。三個在 iOS 開發圈打滾的台灣工程師，專為 Apple & iOS 開發者而製作的 Podcast。主持人<a href="https://twitter.com/@ethanhuang13">一三</a>、<a href="https://twitter.com/@PofatTseng">波肥</a>、<a href="https://twitter.com/@joe_trash_talk">喬喬</a>。內容涵蓋了 iOS 與 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。
 
 [聽眾朋友怎麼說？](/feedbacks)・[weak self 歷史](/history)
 
