@@ -5,7 +5,7 @@ permalink: index.html
 
 <img src="og_image.jpg" width="300" alt="weak self podcast logo"/>
 
-# weak self
+# weak self podcast
 
 集結弱弱的我，也可以組成強大的社群。三個在 iOS 開發圈打滾的台灣工程師，專為 Apple & iOS 開發者而製作的 Podcast。主持人<a href="https://twitter.com/@ethanhuang13">一三</a>、<a href="https://twitter.com/@PofatTseng">波肥</a>、<a href="https://twitter.com/@joe_trash_talk">喬喬</a>。內容涵蓋了 iOS 與 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。
 
@@ -25,7 +25,7 @@ permalink: index.html
 
 <iframe src="https://anchor.fm/weakself/embed/episodes/ep-e6n1fp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-## 近期節目
+## 節目列表
 
 [13: 喬喬 Erasure](/episodes/13)
 
@@ -68,13 +68,13 @@ permalink: index.html
 
 ## 常見問題
 Q: 這個 podcast 是關於什麼？  
-A: 三個在 iOS 開發圈打滾一段時間的人，想到一些 Apple/iOS 開發相關題目來聊聊。偶爾會有特別來賓訪談。
+A: 三個在 iOS 開發圈打滾一段時間的台灣軟體工程師，想到一些 Apple/iOS 開發相關題目來聊聊。偶爾會有特別來賓訪談。
 
 Q: 你們的更新時間與頻率？  
 A: 我們不定期會更新，最短是一週一次。如果該週有節目的話，通常會在週一凌晨上線。所以你的 Blue Monday 有我們的陪伴。
 
 Q: 為什麼叫作 **weak self**？  
-A: `[weak self]` 是 Swift 程式語言裡處理記憶體的語法，我們在[第 10 集](/episodes/10)有詳細討論。不過當初取這個名字主要是想表達「我們這麼弱也可以來錄 podcast，真好玩」。
+A: `[weak self]` 是 Swift 程式語言裡處理記憶體的語法，我們在[第 10 集](/episodes/10)有詳細討論。不過當初取這個名字主要是想表達「我們這麼弱也可以來錄 podcast，真好玩」。後來逐漸演變成🐓雞湯式標語🍲 **weak self, strong community**，意思是「集結弱弱的我，也可以組成強大的社群」。
 
 Q: 什麼是收聽 **weak self** 最棒的方式？  
 A: 由於功能的關係，我們推薦使用 iOS 的 [Overcast](https://overcast.fm/itunes1474108801/weak-self) app 聆聽，但你也可以用任何 podcast app。最重要的是，**請 follow 我們的 [Twitter](https://twitter.com/weak_self)**，才不會錯過任何最新消息🥰
