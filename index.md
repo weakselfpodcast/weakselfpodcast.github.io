@@ -79,13 +79,28 @@ A: `[weak self]` 是 Swift 程式語言裡處理記憶體的語法，我們在[�
 Q: 什麼是收聽 **weak self** 最棒的方式？  
 A: 由於功能的關係，我們推薦使用 iOS 的 [Overcast](https://overcast.fm/itunes1474108801/weak-self) app 聆聽，但你也可以用任何 podcast app。最重要的是，**請 follow 我們的 [Twitter](https://twitter.com/weak_self)**，才不會錯過任何最新消息🥰
 
-Q: 你們開放贊助或工商服務嗎？  
-A: 先說聲謝謝🙏。先讓我們想清楚也不遲。
-
 Q: 我想要聽 OO 題目 / 我想要回饋或提供意見...  
 A: 請到我們的 [Twitter](https://twitter.com/weak_self) 回覆與 DM，或在[提問箱](https://peing.net/zh-TW/weak_self)匿名發問。
 
-## 贊助者
+Q: 你們開放贊助或工商服務嗎？  
+A: 先說聲謝謝🙏，請參考下方說明。
+
+## 贊助
+
+關於贊助這件事情我們討論好一陣子。雖然有數家國內外廠商與我們聯絡，最後得出的結論是，讓大家都開心比較重要。
+
+所以 **weak self 目前只接受個人名義的贊助**，不會有廠商贊助而置入廣告。這樣我們在製作上也比較簡單。
+
+**您的贊助是為了鼓勵創作或補貼製作開銷，不會影響到我們節目未來的內容與走向。**
+
+我們的贊助後台是採用綠界科技的實況主收款，收款人黃逸杉（13），e-mail 為 blesserx[at]gmail.com。
+
+贊助請到[這邊](https://p.ecpay.com.tw/E2F79)（目前僅開放 ATM 轉帳，信用卡收款還在申請中）。你可以選擇填寫地址來接收實體收據，或者在留言區塊留下 email。
+
+非常感謝所有支持 **weak self** 的聽眾朋友們🙏
+
+### 贊助人
+
 <blockquote class="twitter-tweet" data-lang="zh-tw" data-theme="dark" data-link-color="#FC5FA3"><p lang="zh" dir="ltr">感謝乾爹 <a href="https://twitter.com/rollr76518?ref_src=twsrc%5Etfw">@rollr76518</a> 捐贈 Blue Yeti 乙支🙏🙏🙏 <a href="https://t.co/ra6SZmXdfl">pic.twitter.com/ra6SZmXdfl</a></p>&mdash; weak self podcast 「我很弱，不要把我算進去」 (@weak_self) <a href="https://twitter.com/weak_self/status/1174539959207780353?ref_src=twsrc%5Etfw">2019年9月19日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 筆記與章節功能
