@@ -27,6 +27,8 @@ permalink: index.html
 
 ## 節目列表
 
+[14: 資深被資遣工程師](/episodes/14)
+
 [13: 喬喬 Erasure](/episodes/13)
 
 [12: 販售焦慮，Mobile 工程師能不學 Flutter 嗎？](/episodes/12)
