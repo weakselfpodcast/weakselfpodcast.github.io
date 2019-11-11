@@ -93,7 +93,7 @@ A: 先說聲謝謝🙏，請參考下方說明。
 
 所以 **weak self 目前只接受個人名義的贊助**，不會有廠商贊助而置入廣告。這樣我們在製作上也比較簡單。
 
-**您的贊助是為了鼓勵創作或補貼製作開銷，不會影響到我們節目未來的內容與走向。**
+**您的贊助是為了鼓勵創作或補貼製作開銷，不會影響到我們節目未來的內容與走向（donation, not sponsorship）。**
 
 我們的贊助後台是採用綠界科技的實況主收款，收款人黃逸杉（13），e-mail 為 blesserx[at]gmail.com。
 
@@ -101,9 +101,9 @@ A: 先說聲謝謝🙏，請參考下方說明。
 
 <a href="http://bit.ly/36P0HnE"><img src="https://payment.ecpay.com.tw/Upload/QRCode/201909/QRCode_54bcf584-41a2-48fc-8fd7-b12bef228e41.png" /></a> 
 
-非常感謝所有支持 **weak self** 的聽眾朋友們🙏
+### 贊助者
 
-### 贊助人
+我們把[名單](https://mobile.twitter.com/weak_self/lists/donors/members)公開在 Twitter 上。非常感謝所有支持 **weak self** 的聽眾朋友們🙏
 
 <blockquote class="twitter-tweet" data-lang="zh-tw" data-theme="dark" data-link-color="#FC5FA3"><p lang="zh" dir="ltr">感謝乾爹 <a href="https://twitter.com/rollr76518?ref_src=twsrc%5Etfw">@rollr76518</a> 捐贈 Blue Yeti 乙支🙏🙏🙏 <a href="https://t.co/ra6SZmXdfl">pic.twitter.com/ra6SZmXdfl</a></p>&mdash; weak self podcast 「我很弱，不要把我算進去」 (@weak_self) <a href="https://twitter.com/weak_self/status/1174539959207780353?ref_src=twsrc%5Etfw">2019年9月19日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
