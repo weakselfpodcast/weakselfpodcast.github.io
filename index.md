@@ -27,6 +27,8 @@ permalink: index.html
 
 ## 節目列表
 
+[15: Code Review 趴吐](/episodes/15)
+
 [14: 資深被資遣工程師](/episodes/14)
 
 [13: 喬喬 Erasure](/episodes/13)
