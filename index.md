@@ -86,6 +86,7 @@ A: 由於功能的關係，我們推薦使用 iOS 的 [Overcast](https://overcas
 Q: 我想要聽 OO 題目 / 我想要回饋或提供意見...  
 A: 請到我們的 [Twitter](https://twitter.com/weak_self) 回覆與 DM，或在[提問箱](https://peing.net/zh-TW/weak_self)匿名發問。
 
+<a name="donation"></a>
 Q: 你們開放贊助或工商服務嗎？  
 A: 先說聲謝謝🙏，請參考下方說明。
 
@@ -99,7 +100,7 @@ A: 先說聲謝謝🙏，請參考下方說明。
 
 我們的贊助後台是採用綠界科技的實況主收款，收款人黃逸杉（13），e-mail 為 blesserx[at]gmail.com。
 
-贊助請到[這邊](http://bit.ly/36P0HnE)（目前僅開放 ATM 轉帳，信用卡收款還在申請中）。你可以選擇填寫地址來接收實體收據，或者在留言區塊留下 email。
+贊助請到[這邊](http://bit.ly/36P0HnE)（可用台灣信用卡或 ATM 轉帳）。你可以選擇填寫地址來接收實體收據，或者在留言區塊留下 email。
 
 <a href="http://bit.ly/36P0HnE"><img src="https://payment.ecpay.com.tw/Upload/QRCode/201909/QRCode_54bcf584-41a2-48fc-8fd7-b12bef228e41.png" /></a> 
 
