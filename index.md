@@ -59,7 +59,7 @@ permalink: index.html
 
 [0: 如果你想要浪費一個人的暑假](/episodes/0)
 
-## 主講人
+## 主持人
 
 **一三** / 13
 [@ethanhuang13](https://twitter.com/@ethanhuang13)
