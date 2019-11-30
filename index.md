@@ -27,6 +27,8 @@ permalink: index.html
 
 ## 節目列表
 
+[16: 資深工程師什麼時候才學 SwiftUI 跟 Design Patterns](/episodes/16)
+
 [15: Code Review 趴吐](/episodes/15)
 
 [14: 資深被資遣工程師](/episodes/14)
