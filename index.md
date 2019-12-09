@@ -27,6 +27,8 @@ permalink: index.html
 
 ## 節目列表
 
+[17: 便宜行事的第二集—我就是那個奇葩同事](/episodes/17)
+
 [16: 資深工程師什麼時候才學 SwiftUI 跟 Design Patterns](/episodes/16)
 
 [15: Code Review 趴吐](/episodes/15)
