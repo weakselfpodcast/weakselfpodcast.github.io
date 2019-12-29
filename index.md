@@ -27,6 +27,8 @@ permalink: index.html
 
 ## 節目列表
 
+[19: 年度最佳 bug](/episodes/19)
+
 [18: 綠背影的聽力測驗之怎麼害人](/episodes/18)
 
 [17: 便宜行事的第二集—我就是那個奇葩同事](/episodes/17)
