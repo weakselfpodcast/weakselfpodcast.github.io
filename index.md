@@ -27,6 +27,12 @@ permalink: index.html
 
 ## 節目列表
 
+### 第二季
+
+[21: @escaping vs @nonescaping](/episodes/21)
+
+### 第一季
+
 [20: 幕後花絮之 1/11 回家投票](/episodes/20)
 
 [19: 年度最佳 bug](/episodes/19)
