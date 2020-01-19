@@ -27,6 +27,10 @@ permalink: index.html
 
 ## 節目列表
 
+### 第二季
+
+[22: 喬喬賣藥電台：上班族業績與工程師技術債+如何跟強者同事相處+玻璃心同事](/episodes/22)
+
 ### 第一季
 
 [21: @escaping vs @nonescaping](/episodes/21)
