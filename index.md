@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第二季
 
+[26: iOS 開發生平大坑之 DateFormatter](/episodes/26)
+
 [25: 難道公司發大財了！？App Launch Time 加速面面觀](/episodes/25)
 
 [24: 你也是薪水小倫嗎？上班族如何利用上班時間精進程式功力](/episodes/24)
