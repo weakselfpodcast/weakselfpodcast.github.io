@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第二季
 
+[27: 來做 Side Project 系列之不要剛見面就要個資啊](/episodes/27)
+
 [26: iOS 開發生平大坑之 DateFormatter](/episodes/26)
 
 [25: 難道公司發大財了！？App Launch Time 加速面面觀](/episodes/25)
