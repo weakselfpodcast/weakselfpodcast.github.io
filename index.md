@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第二季
 
+[28: 來做 Side Project 系列之誰能比我鍵](/episodes/28)
+
 [27: 來做 Side Project 系列之不要剛見面就要個資啊](/episodes/27)
 
 [26: iOS 開發生平大坑之 DateFormatter](/episodes/26)
