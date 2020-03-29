@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第二季
 
+[30: 開發圈近況與遊戲的隨性聊](/episodes/30)
+
 [29: 來做 Side Project 系列之好用的搜尋功能](/episodes/29)
 
 [28: 來做 Side Project 系列之誰能比我鍵](/episodes/28)
