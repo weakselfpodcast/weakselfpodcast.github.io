@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第二季
 
+[31: 真的不是聊動森的 Podcast](/episodes/31)
+
 [30: 開發圈近況與遊戲的隨性聊](/episodes/30)
 
 [29: 來做 Side Project 系列之好用的搜尋功能](/episodes/29)
