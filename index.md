@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第二季
 
+[32: 本集節目要 @audreyt 唐鳳、Pair Programming、Apple 與 Google 合作](/episodes/32)
+
 [31: 真的不是聊動森的 Podcast](/episodes/31)
 
 [30: 開發圈近況與遊戲的隨性聊](/episodes/30)
