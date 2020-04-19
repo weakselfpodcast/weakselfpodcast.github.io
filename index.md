@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第二季
 
+[33: 喬喬沒賣藥電台：iPhone SE](/episodes/33)
+
 [32: 本集節目要 @audreyt 唐鳳、Pair Programming、Apple 與 Google 合作](/episodes/32)
 
 [31: 真的不是聊動森的 Podcast](/episodes/31)
