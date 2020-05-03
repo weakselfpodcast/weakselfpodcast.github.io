@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第二季
 
+[35: 勞動節特輯之人生不一定有答案](/episodes/35)
+
 [34: 心動投資法之蘋果的股票可不可以買](/episodes/34)
 
 [33: 喬喬沒賣藥電台：iPhone SE](/episodes/33)
