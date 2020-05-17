@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第二季
 
+[36: Strong Wife 跟 WWDC 回顧加預測](/episodes/36)
+
 [35: 勞動節特輯之人生不一定有答案](/episodes/35)
 
 [34: 心動投資法之蘋果的股票可不可以買](/episodes/34)
