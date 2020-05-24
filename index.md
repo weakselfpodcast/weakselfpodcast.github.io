@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第二季
 
+[37: 欸，這個壞掉了之 Log 的那些事、IAP 的傷害](/episodes/37)
+
 [36: Strong Wife 跟 WWDC 回顧加預測](/episodes/36)
 
 [35: 勞動節特輯之人生不一定有答案](/episodes/35)
