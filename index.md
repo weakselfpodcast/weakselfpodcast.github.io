@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第三季
 
+[40: Apple Silicon](/episodes/40)
+
 [39: 第三季弱勢回歸！先來聊聊 WWDC20 印象](/episodes/39)
 
 ### 第二季
