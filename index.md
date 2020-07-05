@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第三季
 
+[42: App Clips—應用程式切片是迷你 App 嗎？](/episodes/42)
+
 [41: Widgets are not mini apps, widgets are not mini apps, widgets are not mini apps](/episodes/41)
 
 [40: Apple Silicon](/episodes/40)
