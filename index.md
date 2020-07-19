@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第三季
 
+[45: iOS 14 主畫面帶來 App 存在感危機！](/episodes/45)
+
 [44: 隱私流程改到你會怕](/episodes/44)
 
 [43: MetricKit—App 怎麼死的不用通靈啦](/episodes/43)
