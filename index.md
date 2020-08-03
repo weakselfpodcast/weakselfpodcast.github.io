@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第三季
 
+[47: 好，錄了！工程師與 PM 圍繞 WWDC20 開展的對話](/episodes/47)
+
 [46: 推你入坑 SwiftUI 不後悔](/episodes/46)
 
 [45: iOS 14 主畫面帶來 App 存在感危機！](/episodes/45)
