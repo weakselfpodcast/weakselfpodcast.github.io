@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第三季
 
+[48: 聽到 weak self 又發生錄音事故，那我就放心了](/episodes/48)
+
 [47: 好，錄了！工程師與 PM 圍繞 WWDC20 開展的對話](/episodes/47)
 
 [46: 推你入坑 SwiftUI 不後悔](/episodes/46)
