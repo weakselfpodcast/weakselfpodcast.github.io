@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第三季
 
+[50: 拖延症患者為你說說 WWDC 20 的那些冷門 sessions](/episodes/50)
+
 [49: 一三報你災之 App Store 審查傷害](/episodes/49)
 
 [48: 聽到 weak self 又發生錄音事故，那我就放心了](/episodes/48)
