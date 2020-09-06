@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第三季
 
+[51: 突如其來的獨立開發](/episodes/51)
+
 [50: 拖延症患者為你說說 WWDC 20 的那些冷門 sessions](/episodes/50)
 
 [49: 一三報你災之 App Store 審查傷害](/episodes/49)
