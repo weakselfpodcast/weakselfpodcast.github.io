@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第三季
 
+[53: 年度最大傷害](/episodes/53)
+
 [52: 躺在風口上，波肥都能飛](/episodes/52)
 
 [51: 突如其來的獨立開發](/episodes/51)
