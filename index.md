@@ -203,7 +203,7 @@ A: 先說聲謝謝🙏，請參考下方說明。
 <img src="chapter_marks.jpg" width="414" alt="章節功能 chapter mark" style="border:0.5px #222 solid;">
 
 ## 後台系統
-我們使用 [Anchor](https://anchor.fm/weakself) 上架。
+我們使用 [SoundOn](https://host.soundon.fm) 上架。
 
 ## 副產品
 因為要整理 podcast 的話題，蒐集了不少材料。沒有機會錄製的部分就放在[«13的開發者週報»](https://ethanhuang13.substack.com)，歡迎訂閱。
