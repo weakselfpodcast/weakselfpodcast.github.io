@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第三季
 
+[54: 真的不是業配，只是要推坑](/episodes/54)
+
 [53: 年度最大傷害](/episodes/53)
 
 [52: 躺在風口上，波肥都能飛](/episodes/52)
