@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第三季
 
+[55: 波肥的軟工相談室](/episodes/55)
+
 [54: 真的不是業配，只是要推坑](/episodes/54)
 
 [53: 年度最大傷害](/episodes/53)
