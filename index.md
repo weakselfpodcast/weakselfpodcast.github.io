@@ -29,7 +29,7 @@ permalink: index.html
 
 ### 第三季
 
-[56: Swift 不可分割](/episodes/55)
+[56: Swift 不可分割](/episodes/56)
 
 [55: 波肥的軟工相談室](/episodes/55)
 
