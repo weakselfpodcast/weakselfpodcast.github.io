@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第三季
 
+[56: Swift 不可分割](/episodes/55)
+
 [55: 波肥的軟工相談室](/episodes/55)
 
 [54: 真的不是業配，只是要推坑](/episodes/54)
