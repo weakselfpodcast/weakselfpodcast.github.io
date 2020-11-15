@@ -27,6 +27,10 @@ permalink: index.html
 
 ## 節目列表
 
+### 第四季
+
+[58: Apple Silicon－當劃時代創新出現，世界要多久才能理解它？](/episodes/58)
+
 ### 第三季
 
 [57: 第四季預告](/episodes/57)
