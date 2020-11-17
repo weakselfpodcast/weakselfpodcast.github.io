@@ -23,7 +23,7 @@ permalink: index.html
 
 ## 2 分鐘試聽
 
-<iframe src="https://anchor.fm/weakself/embed/episodes/ep-e6n1fp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://embed.podcasts.apple.com/us/podcast/%E8%A9%A6%E8%81%BD%E9%9B%86-%E7%AF%80%E7%9B%AE%E7%B0%A1%E4%BB%8B/id1474108801?i=1000453152964&amp;itsct=podcast_box&amp;itscg=30200" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent; background-position: initial initial; background-repeat: initial initial;"></iframe>
 
 ## 節目列表
 
