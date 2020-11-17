@@ -28,14 +28,6 @@ $lightGray: #eee;
   }
 }
 
-@media screen and (max-width: 1599px) {
-    iframe {
-        max-width: 100% !important;
-        width: 720px !important;
-        height: 102px;
-    }
-}
-
 *,*:before,*:after {
 	box-sizing: border-box;
 }
