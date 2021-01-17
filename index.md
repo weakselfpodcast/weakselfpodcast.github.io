@@ -29,6 +29,8 @@ permalink: index.html
 
 ### 第四季
 
+[64: 預測 2021 年的 Apple Silicon](/episodes/64)
+
 [63: M1 冷冰冰，心裡熱呼呼](/episodes/63)
 
 [62: 不想努力了，負債力就是你的超能力](/episodes/62)
