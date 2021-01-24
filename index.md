@@ -19,7 +19,7 @@ permalink: index.html
 
 可使用 <a href="https://overcast.fm/itunes1474108801/weak-self">Overcast</a>、<a href="https://www.listennotes.com/podcasts/weak-self-弱弱的我-一三波肥喬喬-Fx4L9ZKHCTg/">Listen Notes</a> 或 <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz">Google Podcasts</a> 網站。或直接使用 Apple Podcasts 播放器：
 
-<iframe src="https://embed.podcasts.apple.com/tw/podcast/weak-self/id1474108801?itsct=podcast_box&amp;itscg=30200&amp;theme=dark" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent; background-position: initial initial; background-repeat: initial initial;"></iframe>
+<iframe src="https://embed.podcasts.apple.com/us/podcast/weak-self/id1474108801?itsct=podcast_box&amp;itscg=30200&amp;" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent; background-position: initial initial; background-repeat: initial initial;"></iframe>
 
 ## 第五季
 
