@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第五季
 
+[66: 開發的開發、Refactoring 就像切牛肉](/episodes/66)
+
 [65: 本節目從不業配，但是會勸敗，而且都會自己先買好](/episodes/65)
 
 ## 第四季
