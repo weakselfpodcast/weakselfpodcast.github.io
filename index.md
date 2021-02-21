@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第五季
 
+[68: 手機顯示為已砸到臉](/episodes/68)
+
 [67: 工程師咖啡間、Swift 5.4](/episodes/67)
 
 [66: 開發的開發、Refactoring 就像切牛肉](/episodes/66)
