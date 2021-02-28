@@ -21,7 +21,7 @@ permalink: index.html
 
 ## 第五季
 
-[69: M1 SSD 損耗、Swift 的 Method Swizzling、拋磚引玉](/episodes/68)
+[69: M1 SSD 損耗、Swift 的 Method Swizzling、拋磚引玉](/episodes/69)
 
 [68: 手機顯示為已砸到臉](/episodes/68)
 
