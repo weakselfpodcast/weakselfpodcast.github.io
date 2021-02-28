@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第五季
 
+[69: M1 SSD 損耗、Swift 的 Method Swizzling、拋磚引玉](/episodes/68)
+
 [68: 手機顯示為已砸到臉](/episodes/68)
 
 [67: 工程師咖啡間、Swift 5.4](/episodes/67)
