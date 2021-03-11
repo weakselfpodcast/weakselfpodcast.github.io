@@ -58,7 +58,7 @@ permalink: index.html
 [@PofatTseng](https://twitter.com/@PofatTseng)
 
 **喬喬** / Joe
-[@joe_trash_talk](https://twitter.com/@joe_trash_talk)
+已隱退山林，不管俗事
 
 ## 常見問題
 Q: 這個 podcast 是關於什麼？  

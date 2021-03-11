@@ -1,7 +1,7 @@
 title: weak self podcast
 author: weakselfpodcast
 description: > # this means to ignore newlines until "show_exerpts:"
-  三個在 iOS 開發圈打滾的台灣工程師，專為 Apple/iOS 開發者而製作的 Podcast。主講人一三、波肥、喬喬。
+  在 iOS 開發圈打滾的台灣工程師，專為 Apple/iOS 開發者而製作的 Podcast。主講人一三、波肥。
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: 
 
@@ -13,7 +13,7 @@ sass:
 permalink: /episodes/:title
 texture:
   title: weak self podcast
-  tagline: 三個在 iOS 開發圈打滾的台灣工程師，專為 Apple/iOS 開發者而製作的 Podcast。主講人一三、波肥、喬喬。
+  tagline: 在 iOS 開發圈打滾的台灣工程師，專為 Apple/iOS 開發者而製作的 Podcast。主講人一三、波肥。
   date_format: "%Y/%m/%d"
   style: black
   showNav: true
