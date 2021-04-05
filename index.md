@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第五季
 
+[72: WWDC21 宣布、波肥入坑 SwiftUI](/episodes/72)
+
 [71: Swift Runtime 之 Reflection、Metadata](/episodes/71)
 
 [70: Swift Runtime 之 Method Dispatch—Static, Table, or Message](/episodes/70)
