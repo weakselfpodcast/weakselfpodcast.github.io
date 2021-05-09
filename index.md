@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第五季
 
+[75: 別人危言我聳聽—Apple 會停止支援 UIKit！？](/episodes/75)
+
 [74: 選處理器比選顏色還懶](/episodes/74)
 
 [73: No sleep til dub dub](/episodes/73)
