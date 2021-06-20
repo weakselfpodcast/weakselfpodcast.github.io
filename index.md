@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第五季
 
+[78: SwiftUI 後面沒有接 Kit 啦](/episodes/78)
+
 [77: WWDC21 倒吃甘蔗](/episodes/77)
 
 [76: 在家工作！WFH 時怎麼樣才不會 WTF](/episodes/76)
