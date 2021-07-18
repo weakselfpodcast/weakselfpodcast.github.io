@@ -19,9 +19,11 @@ permalink: index.html
 
 可使用 <a href="https://overcast.fm/itunes1474108801/weak-self">Overcast</a>、<a href="https://www.listennotes.com/podcasts/weak-self-弱弱的我-一三波肥喬喬-Fx4L9ZKHCTg/">Listen Notes</a> 或 <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz">Google Podcasts</a> 網站。或直接點進每一集 show note。
 
-## 第五季
+## 第六季
 
 [79: 為什麼有些 API 可以 backport](/episodes/79)
+
+## 第五季
 
 [78: SwiftUI 後面沒有接 Kit 啦](/episodes/78)
 
@@ -50,22 +52,6 @@ permalink: index.html
 [66: 開發的開發、Refactoring 就像切牛肉](/episodes/66)
 
 [65: 本節目從不業配，但是會勸敗，而且都會自己先買好](/episodes/65)
-
-## 第四季
-
-[64: 預測 2021 年的 Apple Silicon](/episodes/64)
-
-[63: M1 冷冰冰，心裡熱呼呼](/episodes/63)
-
-[62: 不想努力了，負債力就是你的超能力](/episodes/62)
-
-[61: 學 SwiftUI 之前先把 UIKit 給忘掉](/episodes/61)
-
-[60: Swift 你給我等一等](/episodes/60)
-
-[59: 貓貓亂入 Swift](/episodes/59)
-
-[58: Apple Silicon－當劃時代創新出現，世界要多久才能理解它？](/episodes/58)
 
 ## 主持人
 
@@ -119,6 +105,22 @@ A: 先說聲謝謝🙏，請參考下方說明。
 <blockquote class="twitter-tweet" data-lang="zh-tw" data-theme="dark" data-link-color="#FC5FA3"><p lang="zh" dir="ltr">感謝乾爹 <a href="https://twitter.com/rollr76518?ref_src=twsrc%5Etfw">@rollr76518</a> 捐贈 Blue Yeti 乙支🙏🙏🙏 <a href="https://t.co/ra6SZmXdfl">pic.twitter.com/ra6SZmXdfl</a></p>&mdash; weak self podcast 「我很弱，不要把我算進去」 (@weak_self) <a href="https://twitter.com/weak_self/status/1174539959207780353?ref_src=twsrc%5Etfw">2019年9月19日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 過去節目
+
+### 第四季
+
+[64: 預測 2021 年的 Apple Silicon](/episodes/64)
+
+[63: M1 冷冰冰，心裡熱呼呼](/episodes/63)
+
+[62: 不想努力了，負債力就是你的超能力](/episodes/62)
+
+[61: 學 SwiftUI 之前先把 UIKit 給忘掉](/episodes/61)
+
+[60: Swift 你給我等一等](/episodes/60)
+
+[59: 貓貓亂入 Swift](/episodes/59)
+
+[58: Apple Silicon－當劃時代創新出現，世界要多久才能理解它？](/episodes/58)
 
 ### 第三季
 
