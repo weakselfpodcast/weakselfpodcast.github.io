@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第六季
 
+[80: Apple 兒童保護機制與隱私權爭議、Reuse 推你入坑 SwiftUI 不後悔](/episodes/80)
+
 [79: 為什麼有些 API 可以 backport](/episodes/79)
 
 ## 第五季
