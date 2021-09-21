@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第六季
 
+[84: 連假發版](/episodes/84)
+
 [83: SwiftUI 架構，一集就聽懂](/episodes/83)
 
 [82: Swift 後悔集](/episodes/82)
