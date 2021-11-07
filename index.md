@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第六季
 
+[87: try await](/episodes/87)
+
 [86: 且聽且珍惜，[weak self]](/episodes/86)
 
 [85: iOS 開發者之痛、iOS 開發者之恥 — Xcode 管理學](/episodes/85)
