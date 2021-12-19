@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第七季
 
+[89: Protocol 萬法歸宗？It takes Two](/episodes/89)
+
 [88: 聽 Work•Team Work + 要來當同事嗎？](/episodes/88)
 
 ## 第六季
