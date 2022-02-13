@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第七季
 
+[92: 瞎猜蘋果眼鏡](/episodes/92)
+
 [91: 愛我的人和我愛的人](/episodes/91)
 
 [90: 動態尋找成員](/episodes/90)
