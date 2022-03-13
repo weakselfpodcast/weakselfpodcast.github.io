@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第七季
 
+[93: 閒話加長 - SwiftUI 實務經驗談](/episodes/93)
+
 [92: 瞎猜蘋果眼鏡](/episodes/92)
 
 [91: 愛我的人和我愛的人](/episodes/91)
