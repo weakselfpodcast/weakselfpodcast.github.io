@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第七季
 
+[94: 前面，重寫很有用](/episodes/94)
+
 [93: 閒話加長 - SwiftUI 實務經驗談](/episodes/93)
 
 [92: 瞎猜蘋果眼鏡](/episodes/92)
