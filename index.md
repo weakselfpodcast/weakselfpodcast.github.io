@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第七季
 
+[97: 報社開起來](/episodes/97)
+
 [96: 這彎過得很滑順，那 Button 可不可以也滑順](/episodes/96)
 
 [95: 請聯絡喬先生](/episodes/95)
