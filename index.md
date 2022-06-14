@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第七季
 
+[98: 想在 WWDC 錄 Podcast](/episodes/98)
+
 [97: 報社開起來](/episodes/97)
 
 [96: 這彎過得很滑順，那 Button 可不可以也滑順](/episodes/96)
