@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第七季
 
+[99: 理直氣壯的綜藝技術節目．幹一年不如等一年](/episodes/99)
+
 [98: 想在 WWDC 錄 Podcast](/episodes/98)
 
 [97: 報社開起來](/episodes/97)
