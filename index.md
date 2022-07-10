@@ -19,6 +19,10 @@ permalink: index.html
 
 可使用 <a href="https://overcast.fm/itunes1474108801/weak-self">Overcast</a>、<a href="https://www.listennotes.com/podcasts/weak-self-弱弱的我-一三波肥喬喬-Fx4L9ZKHCTg/">Listen Notes</a> 或 <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz">Google Podcasts</a> 網站。或直接點進每一集 show note。
 
+## 第八季
+
+[100: 職場相容性](/episodes/100)
+
 ## 第七季
 
 [99: 理直氣壯的綜藝技術節目．幹一年不如等一年](/episodes/99)
@@ -65,35 +69,6 @@ permalink: index.html
 
 [79: 為什麼有些 API 可以 backport](/episodes/79)
 
-## 第五季
-
-[78: SwiftUI 後面沒有接 Kit 啦](/episodes/78)
-
-[77: WWDC21 倒吃甘蔗](/episodes/77)
-
-[76: 在家工作！WFH 時怎麼樣才不會 WTF](/episodes/76)
-
-[75: 別人危言我聳聽—Apple 會停止支援 UIKit！？](/episodes/75)
-
-[74: 選處理器比選顏色還懶](/episodes/74)
-
-[73: No sleep til dub dub](/episodes/73)
-
-[72: WWDC21 宣布、波肥入坑 SwiftUI](/episodes/72)
-
-[71: Swift Runtime 之 Reflection、Metadata](/episodes/71)
-
-[70: Swift Runtime 之 Method Dispatch—Static, Table, or Message](/episodes/70)
-
-[69: M1 SSD 損耗、Swift 的 Method Swizzling、拋磚引玉](/episodes/69)
-
-[68: 手機顯示為已砸到臉](/episodes/68)
-
-[67: 工程師咖啡間、Swift 5.4](/episodes/67)
-
-[66: 開發的開發、Refactoring 就像切牛肉](/episodes/66)
-
-[65: 本節目從不業配，但是會勸敗，而且都會自己先買好](/episodes/65)
 
 ## 主持人
 
@@ -145,6 +120,36 @@ A: 先說聲謝謝🙏，請參考下方說明。
 <blockquote class="twitter-tweet"><p lang="zh" dir="ltr">需要麥克風🎙️嗎？<br>我可以幫忙送請購單到頂尖協會喔<a href="https://twitter.com/hashtag/%E9%82%84%E6%88%91%E5%96%AC%E4%BE%86?src=hash&amp;ref_src=twsrc%5Etfw">#還我喬來</a></p>&mdash; Hao Lee (@twhaolee) <a href="https://twitter.com/twhaolee/status/1341747233423704067?ref_src=twsrc%5Etfw">December 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 過去節目
+
+### 第五季
+
+[78: SwiftUI 後面沒有接 Kit 啦](/episodes/78)
+
+[77: WWDC21 倒吃甘蔗](/episodes/77)
+
+[76: 在家工作！WFH 時怎麼樣才不會 WTF](/episodes/76)
+
+[75: 別人危言我聳聽—Apple 會停止支援 UIKit！？](/episodes/75)
+
+[74: 選處理器比選顏色還懶](/episodes/74)
+
+[73: No sleep til dub dub](/episodes/73)
+
+[72: WWDC21 宣布、波肥入坑 SwiftUI](/episodes/72)
+
+[71: Swift Runtime 之 Reflection、Metadata](/episodes/71)
+
+[70: Swift Runtime 之 Method Dispatch—Static, Table, or Message](/episodes/70)
+
+[69: M1 SSD 損耗、Swift 的 Method Swizzling、拋磚引玉](/episodes/69)
+
+[68: 手機顯示為已砸到臉](/episodes/68)
+
+[67: 工程師咖啡間、Swift 5.4](/episodes/67)
+
+[66: 開發的開發、Refactoring 就像切牛肉](/episodes/66)
+
+[65: 本節目從不業配，但是會勸敗，而且都會自己先買好](/episodes/65)
 
 ### 第四季
 
