@@ -21,6 +21,7 @@ permalink: index.html
 
 ## 第八季
 
+[101: 休息是為了都在走路](/episodes/101)
 [100: 職場相容性](/episodes/100)
 
 ## 第七季
