@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第八季
 
+[102: 大型勸敗話題](/episodes/102)
+
 [101: 休息是為了都在走路](/episodes/101)
 
 [100: 職場相容性](/episodes/100)
