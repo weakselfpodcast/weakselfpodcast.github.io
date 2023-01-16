@@ -19,6 +19,10 @@ permalink: index.html
 
 可使用 <a href="https://overcast.fm/itunes1474108801/weak-self">Overcast</a>、<a href="https://www.listennotes.com/podcasts/weak-self-弱弱的我-一三波肥喬喬-Fx4L9ZKHCTg/">Listen Notes</a> 或 <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOTE0OTY0L3BvZGNhc3QvcnNz">Google Podcasts</a> 網站。或直接點進每一集 show note。
 
+## 第九季
+
+[104: try await 2023](/episodes/104)
+
 ## 第八季
 
 [103: 掌機理論](/episodes/103)
