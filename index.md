@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第九季
 
+[105: 誠徵總召](/episodes/105)
+
 [104: try await 2023](/episodes/104)
 
 ## 第八季
