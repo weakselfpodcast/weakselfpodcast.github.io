@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第九季
 
+[106: WWDC23 最令人興奮的事情](/episodes/106)
+
 [105: 誠徵總召](/episodes/105)
 
 [104: try await 2023](/episodes/104)
