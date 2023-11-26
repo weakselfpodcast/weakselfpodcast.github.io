@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第九季
 
+[107: 好，買了，破費](/episodes/107)
+
 [106: WWDC23 最令人興奮的事情](/episodes/106)
 
 [105: 誠徵總召](/episodes/105)
