@@ -39,52 +39,7 @@ permalink: index.html
 
 [100: 職場相容性](/episodes/100)
 
-## 第七季
-
-[99: 理直氣壯的綜藝技術節目．幹一年不如等一年](/episodes/99)
-
-[98: 想在 WWDC 錄 Podcast](/episodes/98)
-
-[97: 報社開起來](/episodes/97)
-
-[96: 這彎過得很滑順，那 Button 可不可以也滑順](/episodes/96)
-
-[95: 請聯絡喬先生](/episodes/95)
-
-[94: 前面，重寫很有用](/episodes/94)
-
-[93: 閒話加長 - SwiftUI 實務經驗談](/episodes/93)
-
-[92: 瞎猜蘋果眼鏡](/episodes/92)
-
-[91: 愛我的人和我愛的人](/episodes/91)
-
-[90: 動態尋找成員](/episodes/90)
-
-[89: Protocol 萬法歸宗？It takes Two](/episodes/89)
-
-[88: 聽 Work•Team Work + 要來當同事嗎？](/episodes/88)
-
-## 第六季
-
-[87: try await](/episodes/87)
-
-[86: 且聽且珍惜，[weak self]](/episodes/86)
-
-[85: iOS 開發者之痛、iOS 開發者之恥 — Xcode 管理學](/episodes/85)
-
-[84: 連假發版](/episodes/84)
-
-[83: SwiftUI 架構，一集就聽懂](/episodes/83)
-
-[82: Swift 後悔集](/episodes/82)
-
-[81: 軟體更新是為了誰](/episodes/81)
-
-[80: Apple 兒童保護機制與隱私權爭議、Reuse 推你入坑 SwiftUI 不後悔](/episodes/80)
-
-[79: 為什麼有些 API 可以 backport](/episodes/79)
-
+更多過去節目請往下捲動或[按這裡](#old-episodes)。
 
 ## 主持人
 
@@ -108,7 +63,7 @@ Q: 為什麼叫作 **weak self**？
 A: `[weak self]` 是 Swift 程式語言裡處理記憶體的語法，我們在[第 10 集](/episodes/10)有詳細討論。不過當初取這個名字主要是想表達「我們這麼弱也可以來錄 podcast，真好玩」。後來逐漸演變成🐓雞湯式標語🍲 **weak self, strong community**，意思是「集結弱弱的我，也可以組成強大的社群」。
 
 Q: 什麼是收聽 **weak self** 最棒的方式？  
-A: 由於功能的關係，我們推薦使用 iOS 的 [Overcast](https://overcast.fm/itunes1474108801/weak-self) app 聆聽，但你也可以用任何 podcast app。最重要的是，**請 follow 我們的 [Twitter](https://twitter.com/weak_self)**，才不會錯過任何最新消息🥰
+A: 你可以使用任何 podcast app。最重要的是，**請 follow 我們的 [Twitter](https://twitter.com/weak_self)**並[加入我們的 Discord](https://discord.gg/KGdXZqXgFY)，才不會錯過任何最新消息🥰
 
 Q: 我想要聽 OO 題目 / 我想要回饋或提供意見...  
 A: 請到我們的 [Twitter](https://twitter.com/weak_self) 回覆與 DM，或在[提問箱](https://peing.net/zh-TW/weak_self)匿名發問。
@@ -135,7 +90,54 @@ A: 先說聲謝謝🙏，請參考下方說明。
 
 <blockquote class="twitter-tweet"><p lang="zh" dir="ltr">需要麥克風🎙️嗎？<br>我可以幫忙送請購單到頂尖協會喔<a href="https://twitter.com/hashtag/%E9%82%84%E6%88%91%E5%96%AC%E4%BE%86?src=hash&amp;ref_src=twsrc%5Etfw">#還我喬來</a></p>&mdash; Hao Lee (@twhaolee) <a href="https://twitter.com/twhaolee/status/1341747233423704067?ref_src=twsrc%5Etfw">December 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<a name="old-episodes"></a>
 ## 過去節目
+
+### 第七季
+
+[99: 理直氣壯的綜藝技術節目．幹一年不如等一年](/episodes/99)
+
+[98: 想在 WWDC 錄 Podcast](/episodes/98)
+
+[97: 報社開起來](/episodes/97)
+
+[96: 這彎過得很滑順，那 Button 可不可以也滑順](/episodes/96)
+
+[95: 請聯絡喬先生](/episodes/95)
+
+[94: 前面，重寫很有用](/episodes/94)
+
+[93: 閒話加長 - SwiftUI 實務經驗談](/episodes/93)
+
+[92: 瞎猜蘋果眼鏡](/episodes/92)
+
+[91: 愛我的人和我愛的人](/episodes/91)
+
+[90: 動態尋找成員](/episodes/90)
+
+[89: Protocol 萬法歸宗？It takes Two](/episodes/89)
+
+[88: 聽 Work•Team Work + 要來當同事嗎？](/episodes/88)
+
+### 第六季
+
+[87: try await](/episodes/87)
+
+[86: 且聽且珍惜，[weak self]](/episodes/86)
+
+[85: iOS 開發者之痛、iOS 開發者之恥 — Xcode 管理學](/episodes/85)
+
+[84: 連假發版](/episodes/84)
+
+[83: SwiftUI 架構，一集就聽懂](/episodes/83)
+
+[82: Swift 後悔集](/episodes/82)
+
+[81: 軟體更新是為了誰](/episodes/81)
+
+[80: Apple 兒童保護機制與隱私權爭議、Reuse 推你入坑 SwiftUI 不後悔](/episodes/80)
+
+[79: 為什麼有些 API 可以 backport](/episodes/79)
 
 ### 第五季
 
