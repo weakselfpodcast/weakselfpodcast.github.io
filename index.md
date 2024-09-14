@@ -119,13 +119,13 @@ A: 先說聲謝謝🙏，請參考下方說明。
 
 ## 捐款支持
 
-**weak self 只接受個人名義的捐款**，不會有廠商贊助而置入廣告。這樣我們在製作上也比較簡單。
+**weak self 只接受個人名義的捐款**，不會有廠商贊助而置入廣告。這樣我們在製作上也比較單純。
 
 **您的捐款是為了鼓勵創作或補貼製作開銷，不會影響到我們節目未來的內容與走向（donation, not sponsorship）。**
 
-我們接受**信用卡**或 **ATM 轉帳** 捐款（後台是採用綠界科技的實況主收款，收款人黃逸杉（13），e-mail 為 blesserx[at]gmail.com。），也支援**加密貨幣**。
+請[透過 SoundOn Hosting 捐款](https://bit.ly/weak-self-donation)，此方法接受**信用卡**（包括 Apple Pay）。
 
-所有捐款方式，[請移動到官網 GitHub](https://github.com/weakselfpodcast/weakselfpodcast.github.io/blob/master/README.md)，謝謝。
+另外我們也有開放**加密貨幣**，地址請見[官網 GitHub](https://github.com/weakselfpodcast/weakselfpodcast.github.io/blob/master/README.md)。
 
 ### 捐款者名單
 
