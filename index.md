@@ -19,6 +19,10 @@ permalink: index.html
 
 可使用 <a href="https://www.listennotes.com/podcasts/weak-self-弱弱的我-一三波肥喬喬-Fx4L9ZKHCTg/">Listen Notes</a> 網站。或直接點進每一集 show note。
 
+## 第十季
+
+[108: 要取代軟體工程師之前，AI 得先學會通靈](/episodes/108)
+
 ## 第九季
 
 [107: 好，買了，破費](/episodes/107)
