@@ -14,4 +14,4 @@ weak self 只接受個人名義的捐款，不會有廠商贊助而置入廣告�
 ### 信用卡（包含 Apple Pay）
 - [SoundOn 捐款](https://bit.ly/weak-self-donation)。
 
-更新日期：2025/0310
+更新日期：2025/03/10
