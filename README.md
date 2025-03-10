@@ -14,11 +14,4 @@ weak self 只接受個人名義的捐款，不會有廠商贊助而置入廣告�
 ### 信用卡（包含 Apple Pay）
 - [SoundOn 捐款](https://bit.ly/weak-self-donation)。
 
-### 加密貨幣
-
-$USDT(TRC-20)
-```
-TN77e223UmEM47EtEcufiEN3udzyw1Sm83
-```
-
-更新日期：2024/09/14
+更新日期：2025/0310
