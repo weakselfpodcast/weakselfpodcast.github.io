@@ -11,7 +11,7 @@ permalink: index.html
 
 ## 訂閱方式
 
-**weak self** 支援任何 podcast 播放軟體，只要訂閱我們的 [RSS](https://api.soundon.fm/v2/podcasts/233d04e2-60e9-4060-a687-6b7316187f48/feed.xml) 網址即可。
+**weak self** 支援任何 podcast 播放軟體，只要訂閱我們的 [RSS](https://api.substack.com/feed/podcast/5083012.rss) 網址即可。
 
 <a href="https://podcasts.apple.com/tw/podcast/weak-self/id1474108801"><img src="/apple_podcasts.png" width="150" alt="Listen on Apple Podcasts"></a> <a href="https://pca.st/9Z02"><img src="/pocket_casts.png" width="150" alt="Listen on Pocket Casts"></a> <a href="https://open.spotify.com/show/4qAJjdyhx5AgHHL4VuTauj"><img src="/spotify.png" width="150" alt="Listen on Spotify"></a>
 
