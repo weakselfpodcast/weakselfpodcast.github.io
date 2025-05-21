@@ -86,7 +86,7 @@ A: 先說聲謝謝🙏，請參考下方說明。
 
 **您的捐款是為了鼓勵創作或補貼製作開銷，不會影響到我們節目未來的內容與走向（donation, not sponsorship）。**
 
-我們接受**信用卡**或 **ATM 轉帳** 捐款（後台是採用綠界科技的實況主收款，收款人黃逸杉（13），e-mail 為 blesserx[at]gmail.com。），也支援**加密貨幣**。
+我們接受**信用卡**或 **ATM 轉帳** 捐款（採用綠界科技的實況主收款）。
 
 所有捐款方式，[請移動到官網 GitHub](https://github.com/weakselfpodcast/weakselfpodcast.github.io/blob/master/README.md)，謝謝。
 
