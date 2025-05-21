@@ -19,7 +19,7 @@ permalink: index.html
 
 可使用 <a href="https://www.listennotes.com/podcasts/weak-self-弱弱的我-一三波肥喬喬-Fx4L9ZKHCTg/">Listen Notes</a> 網站。或直接點進每一集 show note。
 
-### 第十一季
+## 第十一季
 
 [109: 離職治百病，但是你先別急](/episodes/109)
 
