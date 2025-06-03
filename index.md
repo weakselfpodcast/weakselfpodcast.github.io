@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第十一季
 
+[111: 快樂，買 Mac mini 的原則](/episodes/111)
+
 [110: 請先照顧好自己](/episodes/110)
 
 [109: 離職治百病，但是你先別急](/episodes/109)
