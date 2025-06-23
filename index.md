@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第十一季
 
+[112: 能者過勞──Claude Code 試玩經驗談](/episodes/112)
+
 [111: 快樂，買 Mac mini 的原則](/episodes/111)
 
 [110: 請先照顧好自己](/episodes/110)
