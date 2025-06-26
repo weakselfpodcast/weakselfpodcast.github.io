@@ -21,6 +21,8 @@ permalink: index.html
 
 ## 第十一季
 
+[113: 情勒賣票 feat. Hokila](/episodes/113)
+
 [112: 能者過勞──Claude Code 試玩經驗談](/episodes/112)
 
 [111: 快樂，買 Mac mini 的原則](/episodes/111)
